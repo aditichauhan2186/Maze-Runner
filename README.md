@@ -103,6 +103,3 @@ OOP principles in play:
 - An undo system using a custom linked list to step back through moves.
 - A leaderboard using a heap to track best times across multiple runs.
 
-## License
-
-Free to use, modify, and extend for learning or coursework purposes.
